@@ -1,6 +1,6 @@
 # Olá, me chama Vitor Bittencourt! ✌🏻
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas, e Sistemas da Computação. Aqui você encontrará uma coleção dos meus projetos, contribuições, aulas e o que etou trabalhando e aprendendo no momento!
+Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas, e Sistemas da Computação. Aqui você encontrará uma coleção dos meus projetos, contribuições, aulas e o que estou trabalhando e aprendendo no momento!
 
 ## 🚀 Sobre Mim
 
