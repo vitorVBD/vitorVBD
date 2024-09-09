@@ -26,7 +26,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento d
 
 Aqui estão alguns dos projetos que estou mais empolgado(a):
 
-- **[Site para buscar IAs](https://github.com/vitorVBD/buscador-de-IA-imersao-Alura)**: Página web desenvolvido durante a Imersão da Alura, criei um site com um banco de dados de 50 IAs, para você procurar de acordo com a sua necessidade!
+- **[Site para buscar IAs](https://github.com/vitorVBD/buscador-de-IA-imersao-Alura)**: Página web desenvolvida durante a Imersão da Alura, criei um site com um banco de dados de 50 IAs, para você procurar de acordo com a sua necessidade!
 - **[Pokédex](https://github.com/vitorVBD/Pokedex)**: Pokédex criada ao consumir a API da PokéAPI, usando JavaScript, HTML e CSS!
 - **[Assistente para um jantar](https://github.com/vitorVBD/assistente-de-jantar-AWS-StepFunctions)**: Criei um assistente para ajudar a montar o roteiro de um jantar usando Engenharia de Prompts e AWS Step Functions!
 
