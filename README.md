@@ -1,9 +1,10 @@
 # Olá, me chama Vitor Bittencourt! ✌🏻
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de Análise e Desenvolvimento de Sistemas, e Sistemas da Computação. Aqui você encontrará uma coleção dos meus projetos, contribuições, aulas e o que estou trabalhando e aprendendo no momento!
+Bem-vindo ao meu perfil do GitHub! Sou formado em Engenharia Mecânica e atualmente estudante de Análise e Desenvolvimento de Sistemas, e Sistemas da Computação. Aqui você encontrará uma coleção dos meus projetos, contribuições, aulas e o que estou trabalhando e aprendendo no momento!
 
 ## 🚀 Sobre Mim
 
+- 🎓 Formado em Engenharia Mecânica na Universidade Federal Fluminense - UFF
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário União das Américas - Descomplica
 - 🎓 Cursando Sistemas de Computação na Universidade Federal Fluminense - UFF
 - 🌟 Apaixonado por tecnologia em geral, especialmente Inteligência Artificial, Cyber Segurança e desenvolvimento de softwares! Também sou apaixonado por games, música e academia 💪🏻
