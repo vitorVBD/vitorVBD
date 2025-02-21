@@ -29,17 +29,6 @@ Bem-vindo ao meu perfil do GitHub! Sou formado em Engenharia Mecânica e atualme
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## 📂 Projetos Destacados
-
-Aqui estão alguns dos projetos que estou mais empolgado(a):
-
-- **[Meu Currículo](https://github.com/vitorVBD/meu-curriculo)**: Desenolvi uma página para apresentar meu currículo!
-- **[Criando um RansomWare com Python](https://github.com/vitorVBD/criando-um-ransomware-com-python)**: Desenvolvi um RansomWare para encriptografar dados com Python, enquanto estudava sobre CiberSegurança
-- **[Landing Page Clínica Sapiens](https://github.com/vitorVBD/landing-page-sapiens)**: Criei a landing page de uma clínica odontológica da região
-- **[Minimal API](https://github.com/vitorVBD/minimal-api)**: Minimal API usando .NET C#
-- **[Pokédex](https://github.com/vitorVBD/Pokedex)**: Pokédex criada ao consumir a API da PokéAPI, usando JavaScript, HTML e CSS!
-- **[Assistente para um jantar](https://github.com/vitorVBD/assistente-de-jantar-AWS-StepFunctions)**: Criei um assistente para ajudar a montar o roteiro de um jantar usando Engenharia de Prompts e AWS Step Functions!
-
 ## 📈 Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical)
