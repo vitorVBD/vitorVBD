@@ -1,47 +1,96 @@
-# Olá, me chamo Vitor Bittencourt! ✌🏻
+# Olá, eu sou o Vitor! ✌🏻
+---
+Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios! 💻
 
-Bem-vindo ao meu perfil do GitHub! Sou formado em Engenharia Mecânica e atualmente estudante de Análise e Desenvolvimento de Sistemas, e Sistemas da Computação. Aqui você encontrará uma coleção dos meus projetos, contribuições, aulas e o que estou trabalhando e aprendendo no momento!
+Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica** 🎓 
 
-## 🚀 Sobre Mim
+Atuo como **desenvolvedor full-stack**, explorando as melhores soluções em **Python, Java, C# e JavaScript**, além de me aventurar no mundo da **Inteligência Artificial**, **Computação em Nuvem** e da **Cibersegurança**. 
 
-- 🎓 Formado em Engenharia Mecânica na Universidade Federal Fluminense - UFF
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário União das Américas - Descomplica
-- 🎓 Cursando Sistemas de Computação na Universidade Federal Fluminense - UFF
-- 🌟 Apaixonado por tecnologia em geral, especialmente Inteligência Artificial, Cyber Segurança e desenvolvimento de softwares! Também sou apaixonado por games, música e academia 💪🏻
-- 🛠️ Tecnologias e ferramentas:
+---
+## 🔧 Tecnologias & Ferramentas
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
-## 📈 Estatísticas do GitHub
+##### Linguagens de Programação:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,js&titles=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical)
+##### Desenvolvimento Web:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&titles=true)
 
-## 🤝 Conecte-se Comigo
+##### FrameWorks e Bibliotecas:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,angular,spring&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,pycharm,pytorch&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow&titles=true)
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-bittencourt-8ab27bbb/)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vv_bittencourt/)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5524992161353)
-- [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@vv_bittencourt)
+##### Banco de Dados:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,mongodb&titles=true)
 
-Obrigado por visitar meu perfil! Se você tiver alguma dúvida ou quiser conversar sobre tecnologia, sinta-se à vontade para entrar em contato! 
+
+##### Outros Conhecimentos:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,kubernetes,docker&titles=true)
+
+##### Ferramentas:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,virtualbox,git&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
+
+---
+## 🔎 O que estou estudando agora?
+
+**Atualmente, estou aprimorando meus conhecimentos em:**
+
+<div align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,angular&titles=true)
+Microsoft Copilot Studio para a criação de agentes de IA.
+
+</div>
+
+Estou sempre buscando me atualizar e aprender novas tecnologias para me manter à frente no mercado de TI.
+
+---
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical&locale=pt-br&border_radius=20)
+
+</div>
 
 ---
 
-*Este README.md foi criado com ❤️ e muito café!*
+## 🏅 Certificações
+
+<p align="center">
+    <img src="assets/CiberSecurity Awareness - distintivo.png" width="200">
+
+---
+## 📝 Artigos publicados
+
+Escrevo sobre tecnologia e compartilho conhecimento!
+Aqui estão alguns dos meus textos:
+
+- [Introdução à Sintaxe Básica em Python](https://dio.me/articles/introducao-a-sintaxe-basica-em-python-db2d2fd355fd) 🐍
+- [Engenharia de Prompts: Criando Interações Inteligentes com Modelos de IA](https://dio.me/articles/engenharia-de-prompts-criando-interacoes-inteligentes-com-modelos-de-ia-4acc437e73e6) 🤖
+- [Computação Quântica: A Nova Revolução Tecnológica e o Estado Topológico da Matéria](https://dio.me/articles/computacao-quantica-a-proxima-revolucao-tecnologica-e-o-estado-topologico-da-materia-f8f82ac4224d) ⚛️
+- [Segurança Cibernética: Entenda os Ataques e Aprenda a se Defender](https://dio.me/articles/seguranca-cibernetica-entenda-os-ataques-e-aprenda-a-se-defender-814fe668535b) 🔒
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=tech-articles)](https://github.com/vitorVBD/tech-articles)
+
+</div>
+
+---
+## 👥 Conecte-se comigo!
+
+<div align="center">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/vitor-bittencourt-8ab27bbb/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true)](https://www.instagram.com/vv_bittencourt/) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=outlook&titles=true)](mailto:vitor_bittencourt1998@hotmail.com) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=twitter&titles=true)](https://x.com/vv_bittencourt) [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/vitorVBD)
+
+</div>
+
+---
+## 🫰 Agradecimento
+
+Obrigado por visitar meu perfil! Se gostou dos meus projetos, dê uma estrela ⭐ e siga para acompanhar as novidades! 🚀
