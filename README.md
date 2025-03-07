@@ -63,7 +63,7 @@ Estou sempre buscando me atualizar e aprender novas tecnologias para me manter �
 ## 🏅 Certificações
 
 <p align="center">
-    <img src="assets/CiberSecurity Awareness - distintivo.png" width="200">
+    <img src="assets/cibersecurity-awareness-badge.png" width="250">
 
 
 ## 📝 Artigos publicados
