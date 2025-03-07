@@ -10,25 +10,25 @@ Atuo como **desenvolvedor full-stack**, explorando as melhores soluções em **P
 
 Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
-##### Linguagens de Programação:
+#### Linguagens de Programação:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,js&titles=true)
 
-##### Desenvolvimento Web:
+#### Desenvolvimento Web:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&titles=true)
 
-##### FrameWorks e Bibliotecas:
+#### FrameWorks e Bibliotecas:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,angular,spring&titles=true)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,pycharm,pytorch&titles=true)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow&titles=true)
 
-##### Banco de Dados:
+#### Banco de Dados:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,mongodb&titles=true)
 
 
-##### Outros Conhecimentos:
+#### Outros Conhecimentos:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,kubernetes,docker&titles=true)
 
-##### Ferramentas:
+#### Ferramentas:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,virtualbox,git&titles=true)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
