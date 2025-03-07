@@ -1,12 +1,11 @@
 # Olá, eu sou o Vitor! ✌🏻
----
+
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios! 💻
 
 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica** 🎓 
 
 Atuo como **desenvolvedor full-stack**, explorando as melhores soluções em **Python, Java, C# e JavaScript**, além de me aventurar no mundo da **Inteligência Artificial**, **Computação em Nuvem** e da **Cibersegurança**. 
 
----
 ## 🔧 Tecnologias & Ferramentas
 
 Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
@@ -34,7 +33,6 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
 
----
 ## 🔎 O que estou estudando agora?
 
 **Atualmente, estou aprimorando meus conhecimentos em:**
@@ -42,13 +40,13 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 <div align="center">
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,angular&titles=true)
+<br>
 Microsoft Copilot Studio para a criação de agentes de IA.
 
 </div>
 
 Estou sempre buscando me atualizar e aprender novas tecnologias para me manter à frente no mercado de TI.
 
----
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -57,14 +55,13 @@ Estou sempre buscando me atualizar e aprender novas tecnologias para me manter �
 
 </div>
 
----
 
 ## 🏅 Certificações
 
 <p align="center">
     <img src="assets/CiberSecurity Awareness - distintivo.png" width="200">
 
----
+
 ## 📝 Artigos publicados
 
 Escrevo sobre tecnologia e compartilho conhecimento!
@@ -81,7 +78,7 @@ Aqui estão alguns dos meus textos:
 
 </div>
 
----
+
 ## 👥 Conecte-se comigo!
 
 <div align="center">
@@ -90,7 +87,6 @@ Aqui estão alguns dos meus textos:
 
 </div>
 
----
 ## 🫰 Agradecimento
 
 Obrigado por visitar meu perfil! Se gostou dos meus projetos, dê uma estrela ⭐ e siga para acompanhar as novidades! 🚀
