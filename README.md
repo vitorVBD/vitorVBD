@@ -18,7 +18,9 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
 #### FrameWorks e Bibliotecas:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,angular,spring&titles=true)
+<br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,pycharm,pytorch&titles=true)
+<br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow&titles=true)
 
 #### Banco de Dados:
@@ -30,7 +32,9 @@ Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
 #### Ferramentas:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,virtualbox,git&titles=true)
+<br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
+<br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
 
 ## 🔎 O que estou estudando agora?
@@ -74,7 +78,7 @@ Aqui estão alguns dos meus textos:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=tech-articles)](https://github.com/vitorVBD/tech-articles)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=tech-articles&theme=radical)](https://github.com/vitorVBD/tech-articles)
 
 </div>
 
