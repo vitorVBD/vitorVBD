@@ -53,17 +53,12 @@ Estou sempre buscando me atualizar e aprender novas tecnologias para me manter �
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical&locale=pt-br&border_radius=20)
-
-</div>
 
 
 ## 🏅 Certificações
 
-<p align="center">
-    <img src="assets/cibersecurity-awareness-badge.png" width="250">
+<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250">
 
 
 ## 📝 Artigos publicados
