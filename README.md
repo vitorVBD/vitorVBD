@@ -58,7 +58,7 @@ Estou sempre buscando me atualizar e aprender novas tecnologias para me manter �
 
 ## 🏅 Certificações
 
-<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250">
+<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250"> <img src="assets/Generative-AI-Fundamentals.png" width="250">
 
 
 ## 📝 Artigos publicados
