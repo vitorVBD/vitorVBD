@@ -58,8 +58,7 @@ Estou sempre buscando me atualizar e aprender novas tecnologias para me manter �
 
 ## 🏅 Certificações
 
-<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250"> <img src="assets/Generative-AI-Fundamentals.png" width="250">
-
+<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250"><img src="assets/linux-security.png" width="250"><img src="assets/Generative-AI-Fundamentals.png" width="250"><img src="assets/aws-educate-introduction-to-generative-ai.png" width="250"><img src="assets/aws-educate-machine-learning-foundations.png" width="250"><img src="assets/isc2-candidate.png" width="250"><img src="assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="250">
 
 ## 📝 Artigos publicados
 
