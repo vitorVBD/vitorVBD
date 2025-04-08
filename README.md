@@ -19,7 +19,7 @@
 
 ## 🔧 Tecnologias & Ferramentas | Technologies & Tools
 
-Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
+Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:  
 Here are some languages and tools that I use:
 
 #### Linguagens de Programação | Programming Languages:
@@ -78,10 +78,10 @@ Here are some languages and tools that I use:
 
 ## 📝 Artigos publicados | Articles (Portuguese only)
 
-Escrevo sobre tecnologia e compartilho conhecimento!
+Escrevo sobre tecnologia e compartilho conhecimento!  
 I write about tech and share knowledge!
 
-Aqui estão alguns dos meus textos:
+Aqui estão alguns dos meus textos:  
 Here are some os my articles:
 
 - [Introdução à Sintaxe Básica em Python](https://dio.me/articles/introducao-a-sintaxe-basica-em-python-db2d2fd355fd) 🐍
