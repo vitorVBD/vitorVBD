@@ -1,7 +1,7 @@
 # 👋🏻 Olá, eu sou o Vitor! | Hi, I'm Vitor!
 
-✌🏻 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios! 💻
-✌🏻 Welcome to my GitHub profile! I'm passionate about technology, always looking to learn something new and take on challenges! 💻
+✌🏻 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios!
+✌🏻 Welcome to my GitHub profile! I'm passionate about technology, always looking to learn something new and take on challenges!
 
 🎓 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica**.  
 🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.
