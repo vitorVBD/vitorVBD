@@ -1,19 +1,44 @@
-# 👋🏻 Olá, eu sou o Vitor! | Hi, I'm Vitor!
+<h1 align="center">👋 Olá, eu sou o Vitor! | Hi, I'm Vitor!</h1>
 
-✌🏻 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios!  
-✌🏻 Welcome to my GitHub profile! I'm passionate about technology, always looking to learn something new and take on challenges!
+<p align="center">
+  Full-Stack Developer • Cybersecurity Specialist • Cloud Engineer • AI Enthusiast
+</p>
+
+---
+
+✌🏻 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios!   
+✌🏻 Welcome to my GitHub profile! I'm passionate about technology, always looking to learn something new and take on challenges!   
+
+
+<details>
+<summary>🇧🇷 Sobre mim (Português)</summary>
 
 🎓 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica**.  
-🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.
 
 💻 Sou **Desenvolvedor Full-Stack** com foco em **Cibersegurança, IA e Cloud**. Tenho experiência prática com projetos, certificações e bootcamps das maiores empresas de tecnologia (Microsoft, AWS, Fortinet, ISC2). Estou sempre em busca de novos aprendizados e desafios que unam segurança, performance e inovação.  
-💻 I'm a **Full-Stack Developer** focused on **Cybersecurity, AI, and Cloud**. I have hands-on experience through projects, certifications, and bootcamps from top tech companies (Microsoft, AWS, Fortinet, ISC2). Always eager to learn and solve real-world challenges with security, performance, and innovation in mind.
 
-🧠 Me aprofundo em **Inteligência Artificial**, **Computação em Nuvem** e **Segurança da Informação** — com projetos práticos, certificações e estudos constantes.  
-🧠 I dive deep into **Artificial Intelligence**, **Cloud Computing**, and **Information Security** — through hands-on projects, certifications, and continuous learning.
+🧠 Me aprofundo em **Inteligência Artificial**, **Computação em Nuvem** e **Segurança da Informação** — com projetos práticos, certificações e estudos constantes. 
 
-🚀 Também sou **DIO Campus Expert** e já participei de bootcamps com foco em **IA**, **segurança cibernética** e **desenvolvimento de software** (Microsoft, AWS, Santander, Fortinet, ISC2, Nexa).  
-🚀 I'm also a **DIO Campus Expert** and have participated in bootcamps focused on **AI**, **cybersecurity**, and **software development** (Microsoft, AWS, Santander, Fortinet, ISC2, Nexa).
+🚀 Também sou **DIO Campus Expert**, reconhecido pelo meu alto rendimento na maior plataforma de ensino de tecnologia da América Latina.  
+
+🎯 Estou sempre buscando aprender mais, focando em **segurança, performance e inovação**.
+
+</details>
+
+<details>
+<summary>🇺🇸 About me (English)</summary>
+
+🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.  
+
+💻 I'm a **Full-Stack Developer** focused on **Cybersecurity, AI, and Cloud**. I have hands-on experience through projects, certifications, and bootcamps from top tech companies (Microsoft, AWS, Fortinet, ISC2). Always eager to learn and solve real-world challenges with security, performance, and innovation in mind.  
+
+🧠 I dive deep into **Artificial Intelligence**, **Cloud Computing**, and **Information Security** — through hands-on projects, certifications, and continuous learning.   
+
+🚀 I'm also a **DIO Campus Expert**, recognized for my high performance on the largest technology education platform in Latin America.   
+
+🎯 I'm always looking to learn more, with a strong focus on **security, performance, and innovation**.
+
+</details>
 
 ---
 
@@ -21,14 +46,14 @@
 
 <table>
   <tr>
-    <td><strong>Linguagens</strong><br>Python, Java, C#, JS</td>
+    <td><strong>Languages</strong><br>Python, Java, C#, JS</td>
     <td><strong>Web</strong><br>HTML, CSS, Bootstrap, React, Angular</td>
-    <td><strong>IA/Data</strong><br>Pandas, NumPy, TensorFlow, PyTorch</td>
+    <td><strong>AI/Data</strong><br>Pandas, NumPy, TensorFlow, PyTorch</td>
   </tr>
   <tr>
     <td><strong>DevOps & Cloud</strong><br>Docker, Kubernetes, Azure, AWS</td>
-    <td><strong>Bancos de Dados</strong><br>MySQL, SQL Server, MongoDB, PostgreSQL</td>
-    <td><strong>Ferramentas</strong><br>VS Code, Git, GitHub Copilot, Figma</td>
+    <td><strong>Database</strong><br>MySQL, SQL Server, MongoDB, PostgreSQL</td>
+    <td><strong>Tools</strong><br>VS Code, Git, GitHub Copilot, Figma</td>
   </tr>
 </table>
 
@@ -62,6 +87,16 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=courses-and-certifications&theme=radical)](https://github.com/vitorVBD/courses-and-certifications)
 
 </div>
+
+---
+
+## 📬 Em busca de oportunidades | Open to Opportunities
+
+🔍 Estou em busca de **novas oportunidades** nas áreas de **Cibersegurança, Inteligência Artificial, Desenvolvimento de Software e Cloud**. Tenho interesse em **estágios, freelas e projetos colaborativos** que me desafiem a crescer e contribuir com soluções seguras, escaláveis e inovadoras.   
+🌍 Aberto para trabalho remoto, híbrido ou presencial, com disponibilidade de horários e foco total em evolução contínua.   
+
+🔍 I'm currently looking for **new opportunities** in **Cybersecurity, Artificial Intelligence, Software Development, and Cloud Computing**. I'm open to **internships, freelance roles, and collaborative projects** that push me to grow and contribute with secure, scalable, and innovative solutions.   
+🌍 Open to remote opportunities worldwide. Also available for on-site or hybrid positions abroad with visa and relocation support.   
 
 ---
 
