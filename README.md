@@ -6,13 +6,8 @@
 🎓 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica**.  
 🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.
 
-<<<<<<< HEAD
 💻 Sou **Desenvolvedor Full-Stack** com foco em **Cibersegurança, IA e Cloud**. Tenho experiência prática com projetos, certificações e bootcamps das maiores empresas de tecnologia (Microsoft, AWS, Fortinet, ISC2). Estou sempre em busca de novos aprendizados e desafios que unam segurança, performance e inovação.
 💻 I'm a **Full-Stack Developer** focused on **Cybersecurity, AI, and Cloud**. I have hands-on experience through projects, certifications, and bootcamps from top tech companies (Microsoft, AWS, Fortinet, ISC2). Always eager to learn and solve real-world challenges with security, performance, and innovation in mind.
-=======
-💻 Atuo como **desenvolvedor full-stack**, com foco em **Cibersegurança** e **Cloud**, explorando as melhores soluções em **Python, Java, C# e JavaScript**.  
-💻 I work as a **full-stack developer**, focusing on **Cybersecurity** and **Cloud**, exploring the best solutions with **Python, Java, C#, and JavaScript**.
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 
 🧠 Me aprofundo em **Inteligência Artificial**, **Computação em Nuvem** e **Segurança da Informação** — com projetos práticos, certificações e estudos constantes.  
 🧠 I dive deep into **Artificial Intelligence**, **Cloud Computing**, and **Information Security** — through hands-on projects, certifications, and continuous learning.
@@ -21,7 +16,6 @@
 🚀 I'm also a **DIO Campus Expert** and have participated in bootcamps focused on **AI**, **cybersecurity**, and **software development** (Microsoft, AWS, Santander, Fortinet, ISC2, Nexa).
 
 ---
-<<<<<<< HEAD
 
 ## 🔧 Tecnologias & Ferramentas | Technologies & Tools
 
@@ -39,33 +33,9 @@
 </table>
 
 ---
-=======
-
-## 🔧 Tecnologias & Ferramentas | Technologies & Tools
-
-Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:  
-Here are some languages and tools that I use:
-
-#### Linguagens de Programação | Programming Languages:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,js&titles=true)
-
-#### Desenvolvimento Web | Web Development:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&titles=true)
-
-#### FrameWorks e Bibliotecas | Frameworks and Libraries:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,angular,spring&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,pycharm,pytorch&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow&titles=true)
-
-#### Banco de Dados | Database:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,mongodb&titles=true)
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 
 ## 📚 Atualmente, estou aprimorando meus conhecimentos em: | Currently, I'm improving my skills in:
 
-<<<<<<< HEAD
 - 🔐 Segurança Cibernética / Cybersecurity  
 - ☁️ Computação em Nuvem (Azure & AWS) / Cloud Computing (Azure & AWS)  
 - 🧠 Inteligência Artificial com Python / Deep Learning with Python 
@@ -80,65 +50,22 @@ Here are some languages and tools that I use:
 ## 📊 Estatísticas do GitHub | Github Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vitorVBD&theme=radical&hide_border=true)
-=======
-#### Outros Conhecimentos | Other knowledge:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,kubernetes,docker&titles=true)
-
-#### Ferramentas | Tools:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,virtualbox,git&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
-
----
-
-## 📚 Atualmente, estou aprimorando meus conhecimentos em: | Currently, I'm improving my skills in:
-
-- 🔐 Segurança Cibernética / Cybersecurity  
-- ☁️ Computação em Nuvem (Azure & AWS) / Cloud Computing (Azure & AWS)  
-- 🧠 Inteligência Artificial com Python / Artificial Intelligence with Python  
-- 🧪 Testes e Pentest / Testing and Pentesting  
-- 📝 Engenharia de Prompts / Prompt Engineering  
-- 📊 Ciência de Dados e Análise de Texto e Imagem / Data Science and Image/Text Analysis  
-- 🎯 Preparação para certificações como SC-900, CC (ISC2), Google Cybersecurity e mais!
-- 🎯 Preparing for certifications like SC-900, CC (ISC2), Google Cybersecurity, and more!
-
----
-
-## 📊 Estatísticas do GitHub | Github Stats
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical&locale=pt-br&border_radius=20)
 
 ---
 
-<<<<<<< HEAD
 ## 🏅 Certificações e Cursos | Certifications and Courses
-=======
-## 🏅 Certificações | Certifications
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=courses-and-certifications&theme=radical)](https://github.com/vitorVBD/courses-and-certifications)
 
-<<<<<<< HEAD
 
 ---
 
-=======
----
-
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 ## 📝 Artigos publicados | Articles (Portuguese only)
 
 Escrevo sobre tecnologia e compartilho conhecimento!  
 I write about tech and share knowledge!
-<<<<<<< HEAD
-=======
-
-Aqui estão alguns dos meus textos:  
-Here are some os my articles:
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
 
 - [Introdução à Sintaxe Básica em Python](https://dio.me/articles/introducao-a-sintaxe-basica-em-python-db2d2fd355fd) 🐍
 - [Engenharia de Prompts: Criando Interações Inteligentes com Modelos de IA](https://dio.me/articles/engenharia-de-prompts-criando-interacoes-inteligentes-com-modelos-de-ia-4acc437e73e6) 🤖
@@ -171,8 +98,4 @@ Here are some os my articles:
 ---
 
 ⚠️ Todos os projetos de segurança são de uso exclusivamente **educacional**.  
-<<<<<<< HEAD
 ⚠️ All security-related projects are for **educational purposes only**.
-=======
-⚠️ All security-related projects are for **educational purposes only**.
->>>>>>> 0e9b9ce6e3df6c651a699fcf40fc7a89605bcc48
