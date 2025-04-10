@@ -57,8 +57,11 @@
 
 ## 🏅 Certificações e Cursos | Certifications and Courses
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=courses-and-certifications&theme=radical)](https://github.com/vitorVBD/courses-and-certifications)
 
+</div>
 
 ---
 
