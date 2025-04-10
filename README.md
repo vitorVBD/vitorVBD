@@ -6,7 +6,7 @@
 🎓 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica**.  
 🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.
 
-💻 Sou **Desenvolvedor Full-Stack** com foco em **Cibersegurança, IA e Cloud**. Tenho experiência prática com projetos, certificações e bootcamps das maiores empresas de tecnologia (Microsoft, AWS, Fortinet, ISC2). Estou sempre em busca de novos aprendizados e desafios que unam segurança, performance e inovação.
+💻 Sou **Desenvolvedor Full-Stack** com foco em **Cibersegurança, IA e Cloud**. Tenho experiência prática com projetos, certificações e bootcamps das maiores empresas de tecnologia (Microsoft, AWS, Fortinet, ISC2). Estou sempre em busca de novos aprendizados e desafios que unam segurança, performance e inovação.  
 💻 I'm a **Full-Stack Developer** focused on **Cybersecurity, AI, and Cloud**. I have hands-on experience through projects, certifications, and bootcamps from top tech companies (Microsoft, AWS, Fortinet, ISC2). Always eager to learn and solve real-world challenges with security, performance, and innovation in mind.
 
 🧠 Me aprofundo em **Inteligência Artificial**, **Computação em Nuvem** e **Segurança da Informação** — com projetos práticos, certificações e estudos constantes.  
