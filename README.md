@@ -1,69 +1,71 @@
-# Olá, eu sou o Vitor! ✌🏻
+# 👋🏻 Olá, eu sou o Vitor! | Hi, I'm Vitor!
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios! 💻
+✌🏻 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia, sempre em busca de aprender algo novo e encarar desafios!  
+✌🏻 Welcome to my GitHub profile! I'm passionate about technology, always looking to learn something new and take on challenges!
 
-Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica** 🎓 
+🎓 Atualmente, estudo **Sistemas de Computação** e **Análise e Desenvolvimento de Sistemas**, com formação anterior em **Engenharia Mecânica**.  
+🎓 Currently, I'm studying **Computer Systems** and **Systems Analysis and Development**, with a previous degree in **Mechanical Engineering**.
 
-Atuo como **desenvolvedor full-stack**, explorando as melhores soluções em **Python, Java, C# e JavaScript**, além de me aventurar no mundo da **Inteligência Artificial**, **Computação em Nuvem** e da **Cibersegurança**. 
+💻 Sou **Desenvolvedor Full-Stack** com foco em **Cibersegurança, IA e Cloud**. Tenho experiência prática com projetos, certificações e bootcamps das maiores empresas de tecnologia (Microsoft, AWS, Fortinet, ISC2). Estou sempre em busca de novos aprendizados e desafios que unam segurança, performance e inovação.
+💻 I'm a **Full-Stack Developer** focused on **Cybersecurity, AI, and Cloud**. I have hands-on experience through projects, certifications, and bootcamps from top tech companies (Microsoft, AWS, Fortinet, ISC2). Always eager to learn and solve real-world challenges with security, performance, and innovation in mind.
 
-## 🔧 Tecnologias & Ferramentas
+🧠 Me aprofundo em **Inteligência Artificial**, **Computação em Nuvem** e **Segurança da Informação** — com projetos práticos, certificações e estudos constantes.  
+🧠 I dive deep into **Artificial Intelligence**, **Cloud Computing**, and **Information Security** — through hands-on projects, certifications, and continuous learning.
 
-Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
+🚀 Também sou **DIO Campus Expert** e já participei de bootcamps com foco em **IA**, **segurança cibernética** e **desenvolvimento de software** (Microsoft, AWS, Santander, Fortinet, ISC2, Nexa).  
+🚀 I'm also a **DIO Campus Expert** and have participated in bootcamps focused on **AI**, **cybersecurity**, and **software development** (Microsoft, AWS, Santander, Fortinet, ISC2, Nexa).
 
-#### Linguagens de Programação:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,java,cs,js&titles=true)
+---
 
-#### Desenvolvimento Web:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css&titles=true)
+## 🔧 Tecnologias & Ferramentas | Technologies & Tools
 
-#### FrameWorks e Bibliotecas:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,react,angular,spring&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,dotnet,pycharm,pytorch&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,tensorflow&titles=true)
+<table>
+  <tr>
+    <td><strong>Linguagens</strong><br>Python, Java, C#, JS</td>
+    <td><strong>Web</strong><br>HTML, CSS, Bootstrap, React, Angular</td>
+    <td><strong>IA/Data</strong><br>Pandas, NumPy, TensorFlow, PyTorch</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Cloud</strong><br>Docker, Kubernetes, Azure, AWS</td>
+    <td><strong>Bancos de Dados</strong><br>MySQL, SQL Server, MongoDB, PostgreSQL</td>
+    <td><strong>Ferramentas</strong><br>VS Code, Git, GitHub Copilot, Figma</td>
+  </tr>
+</table>
 
-#### Banco de Dados:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,postgresql,mongodb&titles=true)
+---
 
+## 📚 Atualmente, estou aprimorando meus conhecimentos em: | Currently, I'm improving my skills in:
 
-#### Outros Conhecimentos:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=azure,aws,kubernetes,docker&titles=true)
+- 🔐 Segurança Cibernética / Cybersecurity  
+- ☁️ Computação em Nuvem (Azure & AWS) / Cloud Computing (Azure & AWS)  
+- 🧠 Inteligência Artificial com Python / Deep Learning with Python 
+- 🧪 Testes e Pentest / Testing and Pentesting  
+- 📝 Engenharia de Prompts / Prompt Engineering  
+- 📊 Ciência de Dados e Análise de Texto e Imagem / Data Science and Image/Text Analysis  
+- 🎯 Preparação para certificações como SC-900, CC (ISC2), Google Cybersecurity e mais!
+- 🎯 Preparing for certifications like SC-900, CC (ISC2), Google Cybersecurity, and more!
 
-#### Ferramentas:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,virtualbox,git&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,chatgpt,deepseek,markdown&titles=true)
-<br>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,canva,excel,word&titles=true)
+---
 
-## 🔎 O que estou estudando agora?
+## 📊 Estatísticas do GitHub | Github Stats
 
-**Atualmente, estou aprimorando meus conhecimentos em:**
-
-<div align="center">
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,angular&titles=true)
-<br>
-Microsoft Copilot Studio para a criação de agentes de IA.
-
-</div>
-
-Estou sempre buscando me atualizar e aprender novas tecnologias para me manter à frente no mercado de TI.
-
-## 📊 Estatísticas do GitHub
+![GitHub Streak](https://streak-stats.demolab.com/?user=vitorVBD&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&layout=pie&theme=radical&locale=pt-br&border_radius=20)
 
+---
 
-## 🏅 Certificações
+## 🏅 Certificações e Cursos | Certifications and Courses
 
-<img src="assets/cibersecurity-awareness-badge.png" width="250"><img src="assets/analista-soc-badge.png" width="250"><img src="assets/linux-security.png" width="250"><img src="assets/Generative-AI-Fundamentals.png" width="250"><img src="assets/aws-educate-introduction-to-generative-ai.png" width="250"><img src="assets/aws-educate-machine-learning-foundations.png" width="250"><img src="assets/isc2-candidate.png" width="250"><img src="assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="250">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&repo=courses-and-certifications&theme=radical)](https://github.com/vitorVBD/courses-and-certifications)
 
-## 📝 Artigos publicados
 
-Escrevo sobre tecnologia e compartilho conhecimento!
-Aqui estão alguns dos meus textos:
+---
+
+## 📝 Artigos publicados | Articles (Portuguese only)
+
+Escrevo sobre tecnologia e compartilho conhecimento!  
+I write about tech and share knowledge!
 
 - [Introdução à Sintaxe Básica em Python](https://dio.me/articles/introducao-a-sintaxe-basica-em-python-db2d2fd355fd) 🐍
 - [Engenharia de Prompts: Criando Interações Inteligentes com Modelos de IA](https://dio.me/articles/engenharia-de-prompts-criando-interacoes-inteligentes-com-modelos-de-ia-4acc437e73e6) 🤖
@@ -76,8 +78,9 @@ Aqui estão alguns dos meus textos:
 
 </div>
 
+---
 
-## 👥 Conecte-se comigo!
+## 👥 Conecte-se comigo! | Connect with me!
 
 <div align="center">
 
@@ -85,6 +88,14 @@ Aqui estão alguns dos meus textos:
 
 </div>
 
-## 🫰 Agradecimento
+---
 
-Obrigado por visitar meu perfil! Se gostou dos meus projetos, dê uma estrela ⭐ e siga para acompanhar as novidades! 🚀
+## 🫰 Agradecimento | Thanks
+
+🙏 Obrigado por visitar meu perfil! Se gostou dos meus projetos, dê uma estrela ⭐ e siga para acompanhar as novidades! 🚀  
+🙏 Thanks for visiting my profile! If you like my projects, leave a star ⭐ and follow me to stay updated! 🚀
+
+---
+
+⚠️ Todos os projetos de segurança são de uso exclusivamente **educacional**.  
+⚠️ All security-related projects are for **educational purposes only**.
