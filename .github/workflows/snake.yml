@@ -31,8 +31,8 @@ jobs:
         with:
           github_user_name: vitorVBD
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=087A4F&color_dots=ebedf0,c6f6dd,00D9F5,7B61FF,00F5A0
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00F5A0&color_dots=161b22,0e3b32,00D9F5,7B61FF,00F5A0
+            dist/github-snake.svg?palette=github-light&color_snake=9D174D&color_dots=ebedf0,fbcfe8,FF4ECD,B026FF,FF2BD6
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=FF4ECD&color_dots=161b22,4a044e,FF4ECD,B026FF,FF2BD6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

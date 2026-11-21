@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Vitor Bittencourt, Full-Stack, Cybersecurity, Cloud e AI">
+  <rect width="900" height="240" fill="#120814"/>
+  <defs>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4ECD"/>
+      <stop offset="50%" stop-color="#FF2BD6"/>
+      <stop offset="100%" stop-color="#B026FF"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4ECD" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FF2BD6"/>
+      <stop offset="100%" stop-color="#B026FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="250" y="142" width="400" height="2" fill="url(#rule)"/>
+  <text x="450" y="86" text-anchor="middle" fill="#FF4ECD" font-size="44" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Vitor Bittencourt</text>
+  <text x="450" y="122" text-anchor="middle" fill="#F5D0FE" font-size="18" font-family="Segoe UI, Helvetica, Arial, sans-serif">Full-Stack · Cybersecurity · Cloud · AI</text>
+  <path fill="url(#wave)" opacity="0.55">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0 168 C 150 148, 300 188, 450 168 C 600 148, 750 188, 900 168 L 900 240 L 0 240 Z;M0 160 C 150 188, 300 142, 450 168 C 600 194, 750 146, 900 172 L 900 240 L 0 240 Z;M0 176 C 150 156, 300 196, 450 172 C 600 148, 750 190, 900 160 L 900 240 L 0 240 Z;M0 168 C 150 148, 300 188, 450 168 C 600 148, 750 188, 900 168 L 900 240 L 0 240 Z"/>
+  </path>
+  <path fill="url(#wave)" opacity="0.35">
+    <animate attributeName="d" dur="18s" repeatCount="indefinite" values="M0 188 C 180 168, 360 208, 540 184 C 690 166, 800 200, 900 184 L 900 240 L 0 240 Z;M0 180 C 180 204, 360 164, 540 190 C 690 210, 800 170, 900 192 L 900 240 L 0 240 Z;M0 196 C 180 176, 360 214, 540 186 C 690 164, 800 206, 900 176 L 900 240 L 0 240 Z;M0 188 C 180 168, 360 208, 540 184 C 690 166, 800 200, 900 184 L 900 240 L 0 240 Z"/>
+  </path>
+</svg>
