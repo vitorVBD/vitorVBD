@@ -26,15 +26,21 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: vitorVBD
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#9D174D&color_dots=#ebedf0,#fbcfe8,#FF4ECD,#B026FF,#FF2BD6
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF4ECD&color_dots=#2a1538,#6b2157,#FF4ECD,#B026FF,#FF2BD6
+            dist/github-snake.svg?palette=github-light&color_snake=#9F1239&color_dots=#f4f4f5,#fecdd3,#FF2D3A,#7C3AED,#4C1D95
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FFFFFF&color_dots=#2A1538,#5B2170,#7C3AED,#FF2D3A,#FFFFFF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Bake colors into each cell
+        run: python .github/scripts/paint-snake.py dist/github-snake.svg dist/github-snake-dark.svg
 
       - name: Publish SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4

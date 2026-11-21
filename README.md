@@ -1,6 +1,6 @@
 <!--
   Perfil GitHub: vitorVBD
-  Paleta dos cards: fundo 120814, título FF4ECD, texto EDE4F5, ícones B026FF, acento FF2BD6.
+  Paleta dos cards: fundo 120814, título FF2D3A, texto F4F4F5, ícones 7C3AED. Vermelho, branco e roxo.
   Stats: github-readme-stats.vercel.app com cache de 12h.
   count_private só conta commits privados numa instância própria com PAT.
   Fallback compatível (mesmos parâmetros): https://github-stats-extended.vercel.app
@@ -14,24 +14,24 @@
 <img src="assets/banner.svg" width="900" height="240" alt="Vitor Bittencourt. Full-Stack, Cybersecurity, Cloud e AI" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=FF4ECD&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=9D174D&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=9D174D&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" width="680" height="50" alt="Texto animado: full-stack, cibersegurança, DevSecOps, cloud, IA e DIO Campus Expert" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=FF2D3A&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=9F1239&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=9F1239&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=50&amp;lines=Full-Stack+Developer;Cybersecurity+Specialist;DevSecOps+%26+Code+Review;Cloud+Engineer+%28AWS+%7C+Azure+%7C+GCP%29;AI+Enthusiast;DIO+Campus+Expert" width="680" height="50" alt="Texto animado: full-stack, cibersegurança, DevSecOps, cloud, IA e DIO Campus Expert" />
 </picture>
 
 <br>
 
 <a href="https://github.com/vitorVBD">
-  <img src="https://komarev.com/ghpvc/?username=vitorVBD&amp;label=visitas&amp;color=9D174D&amp;style=for-the-badge" height="28" alt="Contador de visitas do perfil vitorVBD" />
+  <img src="https://komarev.com/ghpvc/?username=vitorVBD&amp;label=visitas&amp;color=9F1239&amp;style=for-the-badge" height="28" alt="Contador de visitas do perfil vitorVBD" />
 </a>
 <a href="https://github.com/vitorVBD?tab=followers">
-  <img src="https://img.shields.io/github/followers/vitorVBD?label=seguidores&amp;style=for-the-badge&amp;color=120814&amp;logo=github&amp;logoColor=FF4ECD&amp;labelColor=161b22" height="28" alt="Seguidores de vitorVBD no GitHub" />
+  <img src="https://img.shields.io/github/followers/vitorVBD?label=seguidores&amp;style=for-the-badge&amp;color=120814&amp;logo=github&amp;logoColor=FF2D3A&amp;labelColor=161b22" height="28" alt="Seguidores de vitorVBD no GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/vitor-bittencourt-8ab27bbb/">
-  <img src="https://img.shields.io/badge/LinkedIn-120814?style=for-the-badge&amp;logo=linkedin&amp;logoColor=B026FF&amp;labelColor=161b22" height="28" alt="LinkedIn de Vitor Bittencourt" />
+  <img src="https://img.shields.io/badge/LinkedIn-120814?style=for-the-badge&amp;logo=linkedin&amp;logoColor=7C3AED&amp;labelColor=161b22" height="28" alt="LinkedIn de Vitor Bittencourt" />
 </a>
 <a href="mailto:vitor_bittencourt1998@hotmail.com">
-  <img src="https://img.shields.io/badge/e--mail-120814?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=FF4ECD&amp;labelColor=161b22" height="28" alt="Enviar e-mail para Vitor Bittencourt" />
+  <img src="https://img.shields.io/badge/e--mail-120814?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=FF2D3A&amp;labelColor=161b22" height="28" alt="Enviar e-mail para Vitor Bittencourt" />
 </a>
 
 </div>
@@ -124,10 +124,10 @@ I was a DIO Campus Expert from October 2024 to March 2025, recognized for techni
 **Segurança | Security**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&amp;logo=linux&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Linux" />
-  <img src="https://img.shields.io/badge/Splunk-161b22?style=flat-square&amp;logo=splunk&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Wireshark-161b22?style=flat-square&amp;logo=wireshark&amp;logoColor=B026FF&amp;labelColor=120814" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=flat-square&amp;logo=burpsuite&amp;logoColor=B026FF&amp;labelColor=120814" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&amp;logo=linux&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Linux" />
+  <img src="https://img.shields.io/badge/Splunk-161b22?style=flat-square&amp;logo=splunk&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-161b22?style=flat-square&amp;logo=wireshark&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-161b22?style=flat-square&amp;logo=burpsuite&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Burp Suite" />
 </div>
 
 <details>
@@ -147,12 +147,12 @@ Identidade (MFA, SSO, OAuth 2.0, OIDC, RBAC), Zero Trust, SIEM/SOAR e LGPD. Ferr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vitorVBD&amp;hide_border=true&amp;border_radius=12&amp;background=120814&amp;ring=B026FF&amp;fire=FF2BD6&amp;currStreakNum=FF4ECD&amp;currStreakLabel=FF4ECD&amp;sideNums=C9D1D9&amp;sideLabels=8B949E&amp;dates=8B949E&amp;locale=pt_BR" width="495" height="195" alt="Sequência de contribuições de vitorVBD" />
+<img src="https://streak-stats.demolab.com/?user=vitorVBD&amp;hide_border=true&amp;border_radius=12&amp;background=120814&amp;ring=7C3AED&amp;fire=7C3AED&amp;currStreakNum=FF2D3A&amp;currStreakLabel=FF2D3A&amp;sideNums=C9D1D9&amp;sideLabels=8B949E&amp;dates=8B949E&amp;locale=pt_BR" width="495" height="195" alt="Sequência de contribuições de vitorVBD" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitorVBD&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF4ECD&amp;text_color=EDE4F5&amp;icon_color=B026FF&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="195" alt="Estatísticas do GitHub de vitorVBD" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF4ECD&amp;text_color=EDE4F5&amp;icon_color=B026FF&amp;border_radius=12&amp;cache_seconds=43200" width="300" height="190" alt="Linguagens mais usadas por vitorVBD" />
+<img src="https://github-readme-stats.vercel.app/api?username=vitorVBD&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF2D3A&amp;text_color=F4F4F5&amp;icon_color=7C3AED&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="195" alt="Estatísticas do GitHub de vitorVBD" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorVBD&amp;layout=compact&amp;langs_count=8&amp;locale=pt-br&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF2D3A&amp;text_color=F4F4F5&amp;icon_color=7C3AED&amp;border_radius=12&amp;cache_seconds=43200" width="300" height="190" alt="Linguagens mais usadas por vitorVBD" />
 
 <br><br>
 
@@ -160,7 +160,7 @@ Identidade (MFA, SSO, OAuth 2.0, OIDC, RBAC), Zero Trust, SIEM/SOAR e LGPD. Ferr
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorVBD&amp;bg_color=120814&amp;color=EDE4F5&amp;line=FF4ECD&amp;point=FF2BD6&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Atividade" width="720" height="252" alt="Gráfico de atividade de vitorVBD no GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorVBD&amp;bg_color=120814&amp;color=F4F4F5&amp;line=FF2D3A&amp;point=7C3AED&amp;area=true&amp;hide_border=true&amp;radius=12&amp;custom_title=Atividade" width="720" height="252" alt="Gráfico de atividade de vitorVBD no GitHub" />
 
 <br><br>
 
@@ -253,12 +253,12 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 
 <br>
 
-<img src="https://img.shields.io/badge/SC--900-161b22?style=flat-square&amp;logo=microsoft&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Microsoft SC-900" />
-<img src="https://img.shields.io/badge/SC--200-161b22?style=flat-square&amp;logo=microsoft&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Microsoft SC-200 Security Operations Analyst Associate" />
-<img src="https://img.shields.io/badge/ISC2%20CC-161b22?style=flat-square&amp;logo=isc2&amp;logoColor=B026FF&amp;labelColor=120814" alt="Certified in Cybersecurity CC, ISC2" />
-<img src="https://img.shields.io/badge/Fortinet%20FCF-161b22?style=flat-square&amp;logo=fortinet&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Fortinet FCF" />
-<img src="https://img.shields.io/badge/Fortinet%20FCA-161b22?style=flat-square&amp;logo=fortinet&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Fortinet FCA" />
-<img src="https://img.shields.io/badge/Google%20Cybersecurity-161b22?style=flat-square&amp;logo=google&amp;logoColor=B026FF&amp;labelColor=120814" alt="Google Cybersecurity" />
+<img src="https://img.shields.io/badge/SC--900-161b22?style=flat-square&amp;logo=microsoft&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Microsoft SC-900" />
+<img src="https://img.shields.io/badge/SC--200-161b22?style=flat-square&amp;logo=microsoft&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Microsoft SC-200 Security Operations Analyst Associate" />
+<img src="https://img.shields.io/badge/ISC2%20CC-161b22?style=flat-square&amp;logo=isc2&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Certified in Cybersecurity CC, ISC2" />
+<img src="https://img.shields.io/badge/Fortinet%20FCF-161b22?style=flat-square&amp;logo=fortinet&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Fortinet FCF" />
+<img src="https://img.shields.io/badge/Fortinet%20FCA-161b22?style=flat-square&amp;logo=fortinet&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Fortinet FCA" />
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-161b22?style=flat-square&amp;logo=google&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Google Cybersecurity" />
 
 <br><br>
 
@@ -266,8 +266,8 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 
 <br>
 
-<img src="https://img.shields.io/badge/AZ--900-161b22?style=flat-square&amp;logo=microsoftazure&amp;logoColor=B026FF&amp;labelColor=120814" alt="Microsoft Azure Fundamentals AZ-900" />
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-em%20prepara%C3%A7%C3%A3o-B026FF?style=flat-square&amp;logo=amazonaws&amp;logoColor=white&amp;labelColor=161b22" alt="AWS Solutions Architect em preparação" />
+<img src="https://img.shields.io/badge/AZ--900-161b22?style=flat-square&amp;logo=microsoftazure&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Microsoft Azure Fundamentals AZ-900" />
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-em%20prepara%C3%A7%C3%A3o-7C3AED?style=flat-square&amp;logo=amazonaws&amp;logoColor=white&amp;labelColor=161b22" alt="AWS Solutions Architect em preparação" />
 
 <br><br>
 
@@ -275,12 +275,12 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 
 <br>
 
-<img src="https://img.shields.io/badge/FCE%20Cambridge-161b22?style=flat-square&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="First Certificate in English, Cambridge" />
+<img src="https://img.shields.io/badge/FCE%20Cambridge-161b22?style=flat-square&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="First Certificate in English, Cambridge" />
 
 <br><br>
 
 <a href="https://github.com/vitorVBD/courses-and-certifications">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&amp;repo=courses-and-certifications&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF4ECD&amp;text_color=EDE4F5&amp;icon_color=B026FF&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="140" alt="Repositório courses-and-certifications" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&amp;repo=courses-and-certifications&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF2D3A&amp;text_color=F4F4F5&amp;icon_color=7C3AED&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="140" alt="Repositório courses-and-certifications" />
 </a>
 
 </div>
@@ -379,7 +379,7 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 <div align="center">
 
 <a href="https://github.com/vitorVBD/tech-articles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&amp;repo=tech-articles&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF4ECD&amp;text_color=EDE4F5&amp;icon_color=B026FF&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="140" alt="Repositório tech-articles" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vitorVBD&amp;repo=tech-articles&amp;hide_border=true&amp;bg_color=120814&amp;title_color=FF2D3A&amp;text_color=F4F4F5&amp;icon_color=7C3AED&amp;border_radius=12&amp;cache_seconds=43200" width="400" height="140" alt="Repositório tech-articles" />
 </a>
 
 </div>
@@ -390,11 +390,11 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-B026FF?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="Estudando AWS Solutions Architect" />
-<img src="https://img.shields.io/badge/Cloud%20Security-161b22?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Estudando Cloud Security" />
-<img src="https://img.shields.io/badge/Pentest-161b22?style=for-the-badge&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Estudando pentest com foco em defesa" />
-<img src="https://img.shields.io/badge/IA%20com%20Python-161b22?style=for-the-badge&amp;logo=python&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Estudando IA com Python" />
-<img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-161b22?style=for-the-badge&amp;logoColor=B026FF&amp;labelColor=120814" alt="Estudando engenharia de prompts" />
+<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-7C3AED?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="Estudando AWS Solutions Architect" />
+<img src="https://img.shields.io/badge/Cloud%20Security-161b22?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Estudando Cloud Security" />
+<img src="https://img.shields.io/badge/Pentest-161b22?style=for-the-badge&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Estudando pentest com foco em defesa" />
+<img src="https://img.shields.io/badge/IA%20com%20Python-161b22?style=for-the-badge&amp;logo=python&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Estudando IA com Python" />
+<img src="https://img.shields.io/badge/Engenharia%20de%20Prompts-161b22?style=for-the-badge&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Estudando engenharia de prompts" />
 
 </div>
 
@@ -404,10 +404,10 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-120814?style=for-the-badge&amp;labelColor=FF4ECD" alt="Aberto a cibersegurança" />
-<img src="https://img.shields.io/badge/AI-120814?style=for-the-badge&amp;labelColor=B026FF" alt="Aberto a IA" />
-<img src="https://img.shields.io/badge/Software-161b22?style=for-the-badge&amp;logoColor=FF4ECD&amp;labelColor=120814" alt="Aberto a desenvolvimento de software" />
-<img src="https://img.shields.io/badge/Cloud-161b22?style=for-the-badge&amp;logoColor=B026FF&amp;labelColor=120814" alt="Aberto a cloud" />
+<img src="https://img.shields.io/badge/Cybersecurity-120814?style=for-the-badge&amp;labelColor=FF2D3A" alt="Aberto a cibersegurança" />
+<img src="https://img.shields.io/badge/AI-120814?style=for-the-badge&amp;labelColor=7C3AED" alt="Aberto a IA" />
+<img src="https://img.shields.io/badge/Software-161b22?style=for-the-badge&amp;logoColor=FF2D3A&amp;labelColor=120814" alt="Aberto a desenvolvimento de software" />
+<img src="https://img.shields.io/badge/Cloud-161b22?style=for-the-badge&amp;logoColor=7C3AED&amp;labelColor=120814" alt="Aberto a cloud" />
 <img src="https://img.shields.io/badge/Remoto%20%C2%B7%20H%C3%ADbrido%20%C2%B7%20Presencial-120814?style=for-the-badge&amp;labelColor=161b22" alt="Remoto, híbrido ou presencial" />
 <img src="https://img.shields.io/badge/Visto%20e%20reloca%C3%A7%C3%A3o-120814?style=for-the-badge&amp;labelColor=161b22" alt="Aberto a oportunidades internacionais com visto e relocação" />
 
@@ -429,10 +429,10 @@ Uso exclusivamente educacional. O foco é detecção, mitigação e conscientiza
   <img src="https://img.shields.io/badge/X-120814?style=for-the-badge&amp;logo=x&amp;logoColor=white&amp;labelColor=161b22" height="28" alt="X vv_bittencourt" />
 </a>
 <a href="mailto:vitor_bittencourt1998@hotmail.com">
-  <img src="https://img.shields.io/badge/vitor__bittencourt1998%40hotmail.com-120814?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=FF4ECD&amp;labelColor=161b22" height="28" alt="E-mail vitor_bittencourt1998@hotmail.com" />
+  <img src="https://img.shields.io/badge/vitor__bittencourt1998%40hotmail.com-120814?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=FF2D3A&amp;labelColor=161b22" height="28" alt="E-mail vitor_bittencourt1998@hotmail.com" />
 </a>
 <a href="https://github.com/vitorVBD">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=FF4ECD&amp;labelColor=120814" height="28" alt="GitHub vitorVBD" />
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&amp;logo=github&amp;logoColor=FF2D3A&amp;labelColor=120814" height="28" alt="GitHub vitorVBD" />
 </a>
 
 </div>
@@ -446,4 +446,4 @@ All security-related projects are for educational purposes only.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4ECD,50:B026FF,100:FF2BD6&amp;height=110&amp;section=footer" width="854" height="110" alt="Onda de encerramento nas cores rosa e roxo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF2D3A,50:FFFFFF,100:7C3AED&amp;height=110&amp;section=footer" width="854" height="110" alt="Onda de encerramento nas cores vermelho, branco e roxo" />

@@ -2,19 +2,19 @@
   <rect width="900" height="240" fill="#120814"/>
   <defs>
     <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF4ECD"/>
-      <stop offset="50%" stop-color="#FF2BD6"/>
-      <stop offset="100%" stop-color="#B026FF"/>
+      <stop offset="0%" stop-color="#FF2D3A"/>
+      <stop offset="48%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
     </linearGradient>
     <linearGradient id="rule" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF4ECD" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FF2BD6"/>
-      <stop offset="100%" stop-color="#B026FF" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#FF2D3A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect x="250" y="142" width="400" height="2" fill="url(#rule)"/>
-  <text x="450" y="86" text-anchor="middle" fill="#FF4ECD" font-size="44" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Vitor Bittencourt</text>
-  <text x="450" y="122" text-anchor="middle" fill="#F5D0FE" font-size="18" font-family="Segoe UI, Helvetica, Arial, sans-serif">Full-Stack · Cybersecurity · Cloud · AI</text>
+  <text x="450" y="86" text-anchor="middle" fill="#FFFFFF" font-size="44" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Vitor Bittencourt</text>
+  <text x="450" y="122" text-anchor="middle" fill="#F4F4F5" font-size="18" font-family="Segoe UI, Helvetica, Arial, sans-serif">Full-Stack · Cybersecurity · Cloud · AI</text>
   <path fill="url(#wave)" opacity="0.55">
     <animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0 168 C 150 148, 300 188, 450 168 C 600 148, 750 188, 900 168 L 900 240 L 0 240 Z;M0 160 C 150 188, 300 142, 450 168 C 600 194, 750 146, 900 172 L 900 240 L 0 240 Z;M0 176 C 150 156, 300 196, 450 172 C 600 148, 750 190, 900 160 L 900 240 L 0 240 Z;M0 168 C 150 148, 300 188, 450 168 C 600 148, 750 188, 900 168 L 900 240 L 0 240 Z"/>
   </path>
